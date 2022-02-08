@@ -19,15 +19,14 @@
 
 | EX | Category | Project |
 |---|:---:|:---:|
-| `01` | Image Classificaiton | rock_scissor_paper |
+| `01` | [CV] Image Classificaiton | rock_scissor_paper |
 | `02` | Classification | Digits, Wine, and Breast Cancer Dataset |
-| `03` | Face Detection | camera_sticker |
-| `04` | Text Generation | Make a Lyricsht |
+| `03` | [CV] Face Detection | camera_sticker |
+| `04` | [NLP] Text Generation | Make a Lyricsht |
 | `05` | Kaggle | my_first_kaggle |
-| `06` | Sentiment Analysis | Sentimental_Classification_Naver_Mov |
-| `07` | Image Segmentation | Shallow Focus With Computation |
-| `08` | Text Summarization | news_Summarization |
-| `09` | 브라우저 창을 기준으로 배치 |  |
-| `10` | 브라우저 창을 기준으로 배치 |  |
-| `11` | 브라우저 창을 기준으로 배치 |  |
-| `12` | 브라우저 창을 기준으로 배치 |  |
+| `06` | [NLP] Sentiment Analysis | Sentimental_Classification_Naver_Mov |
+| `07` | [CV] Image Segmentation | Shallow Focus With Computation |
+| `08` | [NLP] Text Summarization | news_Summarization |
+| `09` | [CV] Medical Image Analysis | Pneumonia Diagnosis Dodel |
+| `10` | [CV] Image Generation  | Modeling DCGAN with CIFAR10 |
+| `11` | [Time Series] |  |
