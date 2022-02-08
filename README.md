@@ -1,28 +1,15 @@
-# Aiffel
+<h2 align="center"> 2022 Aiffel
 
-AIFFEL
-인공지능 학교 아이펠에서 공부한 내용을 기록하는 저장소입니다.
+  
+<div align="right">
 
-Exploration
-Category	Project
-Image Classificaiton	Rock, Scissor, Paper Image Classification
-Classification	Sklearn Dataset Breast Cancer Classification
-Classification	Sklearn Dataset Wine Classification
-Classification	Sklearn Dataset Digits Classification
-Face Detection	Cat Sticker
-Text Generation	Lyrics Generation
-Face Embedding	FaceNet Face Embedding
-Kaggle	HousingPrice Prediction
-Sentiment Analysis	Naver Review Sentimental Analysis
-Image Segmentation	Human Segmentation
-Recommender System	MovieLens Movie Recommendation
-Text Summarization	News Summarization
-Medical Image Analysis	Pneumonia Diagnosis Dodel
-Session-Based Recommender System	Session Based Recommendation
-Image Generation	CIFAR DCGAN
-Time Series Forecasting	ARIMA Model
-Transformer	Transfomer Chatbot
-Super Resolution	SRGAN
-BERT	KorQuAD-BERT
-OCR	OCR Service
-Conditioanl GAN	Pix2Pix
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkim-seo-hyun&count_bg=%23A6D2FE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+  
+
+
+<h4 align="center"><b>🔥 Aiffel Data Science, Machine Learning, Deep Learning 🔥</b></h3>
+
+
+- 2021.12.27 ~
+- https://aiffel.oopy.io/
