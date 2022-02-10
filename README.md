@@ -29,4 +29,5 @@
 | `08` | [NLP] Text Summarization | [news_Summarization](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B08%5Dnews_Summarization.ipynb) |
 | `09` | [CV] Medical Image Analysis | [Pneumonia Diagnosis Model](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B09%5DPneumonia%20Diagnosis%20Model.ipynb) |
 | `10` | [CV] Image Generation  | Modeling DCGAN with CIFAR10 |
-| `11` | [Time Series] |  |
+| `11` | Time Series | ARIMA_Stock_Prediction |
+| `12` |  |  |
