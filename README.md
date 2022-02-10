@@ -27,6 +27,6 @@
 | `06` | [NLP] Sentiment Analysis | [Sentimental_Classification_Naver_Mov](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B06%5DSentimental_Classification_Naver_Movie_Review..ipynb) |
 | `07` | [CV] Image Segmentation | [Shallow Focus With Computation](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B07%5DShallow%20Focus%20With%20Computation.ipynb) |
 | `08` | [NLP] Text Summarization | [news_Summarization](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B08%5Dnews_Summarization.ipynb) |
-| `09` | [CV] Medical Image Analysis | Pneumonia Diagnosis Model |
+| `09` | [CV] Medical Image Analysis | [Pneumonia Diagnosis Model](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B09%5DPneumonia%20Diagnosis%20Model.ipynb) |
 | `10` | [CV] Image Generation  | Modeling DCGAN with CIFAR10 |
 | `11` | [Time Series] |  |
