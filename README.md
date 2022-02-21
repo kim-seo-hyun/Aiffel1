@@ -30,4 +30,5 @@
 | `09` | [CV] Medical Image Analysis | [Pneumonia Diagnosis Model](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B09%5DPneumonia%20Diagnosis%20Model.ipynb) |
 | `10` | [CV] Image Generation  | [Modeling DCGAN with CIFAR10](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B10%5D%20Modeling%20DCGAN%20with%20CIFAR10.ipynb) |
 | `11` | Time Series | ARIMA_Stock_Prediction |
-| `12` |  |  |
+| `12` | Transformer | Transfomer Chatbot |
+| `13` | BERT | KorQuAD-BERT |
