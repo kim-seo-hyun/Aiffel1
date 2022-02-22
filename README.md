@@ -17,7 +17,7 @@
 
 <h4> Exploration </h4>
 
-| EX | Category | Project | ⭐ |
+| EX | Category | Project | ⭐⭐⭐ |
 |---|:---:|:---:|:---:|
 | `01` | [CV] Image Classificaiton | [rock_scissor_paper](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B01%5Drock_scissor_paper.ipynb) | ⭐⭐ |
 | `02` | Classification | [Digits, Wine, and Breast Cancer Dataset](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B02%5DDigits%2C%20Wine%2C%20and%20Breast%20Cancer%20Dataset.ipynb) | ⭐⭐⭐ |
