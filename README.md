@@ -33,4 +33,4 @@
 | `12` | [NLP] Transformer | [Transfomer Chatbot](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B12%5DTransfomer%20Chatbot.ipynb) | 
 | `13` | [NLP] BERT | KorQuAD-BERT |
 | `14` | Super Resolution | SRGAN | 
-| `15` | OCR | OCR Service| 
+| `15` | [CV] OCR | OCR Service| 
