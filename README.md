@@ -32,5 +32,5 @@
 | `11` | Time Series | [ARIMA_Stock_Prediction](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B11%5DARIMA_Stock_Prediction.ipynb) | ⭐⭐⭐
 | `12` | [NLP] Transformer | [Transfomer Chatbot](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B12%5DTransfomer%20Chatbot.ipynb) | 
 | `13` | [NLP] BERT | KorQuAD-BERT |
-| `14` | Super Resolution | SRGAN | 
+| `14` | RecSys | CSR Matrix | 
 | `15` | [CV] OCR | OCR Service| 
