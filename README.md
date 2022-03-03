@@ -32,5 +32,5 @@
 | `11` | Time Series | [ARIMA_Stock_Prediction](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B11%5DARIMA_Stock_Prediction.ipynb) | ⭐⭐⭐
 | `12` | [NLP] Transformer | [Transfomer Chatbot](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B12%5DTransfomer%20Chatbot.ipynb) | ⭐⭐⭐
 | `13` | [NLP] BERT | [KorQuAD-BERT](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B13%5DKorQuAD-BERT.ipynb) | ⭐⭐⭐
-| `14` | RecSys | [CSR Matrix](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B14%5DCSR%20Matrix.ipynb) | 
+| `14` | RecSys | [CSR Matrix](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B14%5DCSR%20Matrix.ipynb) | ⭐⭐⭐
 | `15` | [CV] OCR | OCR Service| 
