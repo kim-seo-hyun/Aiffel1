@@ -34,3 +34,5 @@
 | `13` | [NLP] BERT | [KorQuAD-BERT](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B13%5DKorQuAD-BERT.ipynb) | ⭐⭐⭐
 | `14` | RecSys | [CSR Matrix](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B14%5DCSR%20Matrix.ipynb) | ⭐⭐⭐
 | `15` | [CV] OCR | OCR Service| 
+| `16` |  | | 
+| `17` |  | | 
