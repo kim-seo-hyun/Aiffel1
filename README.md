@@ -14,6 +14,7 @@
 
 - 2021.12.27 ~ <br>
 - https://aiffel.oopy.io/
+- 2022.03.08 ~ 03.11 ✔ Datathon
 
 <h4> Exploration </h4>
 
@@ -33,6 +34,18 @@
 | `12` | [NLP] Transformer | [Transfomer Chatbot](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B12%5DTransfomer%20Chatbot.ipynb) | ⭐⭐⭐
 | `13` | [NLP] BERT | [KorQuAD-BERT](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B13%5DKorQuAD-BERT.ipynb) | ⭐⭐⭐
 | `14` | RecSys | [CSR Matrix](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B14%5DCSR%20Matrix.ipynb) | ⭐⭐⭐
-| `15` | [CV] OCR | OCR Service| 
-| `16` |  | | 
-| `17` |  | | 
+| `15` | [CV] OCR | OCR Service| ⭐⭐⭐
+| `16` | RecSys | Session based Recommendation | 
+| `17` | [CV]Conditioanl GAN | Pix2Pix | 
+
+
+<h4> GoingDeeper </h4>
+
+| EX | Category | Project | ⭐⭐⭐
+|---|:---:|:---:|:---:|
+
+
+<h4> Fundamental </h4>
+
+| EX | Category | Project
+|---|:---:|:---:|
