@@ -14,7 +14,8 @@
 
 - 2021.12.27 ~ <br>
 - https://aiffel.oopy.io/
-- 2022.03.08 ~ 03.11 ✔ Datathon
+- ✔ Datathon 2022.03.08 ~ 03.11
+- FD, EX, Programmers LV1, CS231N, Datathon, kaggle study 
 
 <h4> Exploration </h4>
 
@@ -35,18 +36,8 @@
 | `13` | [NLP] BERT | [KorQuAD-BERT](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B13%5DKorQuAD-BERT.ipynb) | ⭐⭐⭐
 | `14` | RecSys | [CSR Matrix](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B14%5DCSR%20Matrix.ipynb) | ⭐⭐⭐
 | `15` | [CV] OCR | [OCR Service](https://github.com/kim-seo-hyun/Aiffel/blob/main1/EXPLORATION/%5B15%5DOCR%20Service.ipynb)| ⭐⭐⭐
-| `16` | RecSys | [Session based Recommendation](https://github.com/kim-seo-hyun/Aiffel/blob/main1/EXPLORATION/%5B16%5DSession%20Based%20Recommendation.ipynb) | 
+| `16` | RecSys | [Session based Recommendation](https://github.com/kim-seo-hyun/Aiffel1/blob/main1/EXPLORATION/%5B16%5DSession%20Based%20Recommendation.ipynb) | ⭐⭐
 | `17` | [CV]Conditioanl GAN | Pix2Pix | 
-
-
-<h4> GoingDeeper </h4>
-
-| Num | content | Project | ⭐⭐⭐
-|---|:---:|:---:|:---:|
-|'G1'| 백본 네트워크 구조 상세분석 | | |
-|'G2'| ResNet Ablation Study | ResNet |:---:|
-|'G3'| Data Augmentation | | |
-|'G4'|  |  | |
 
 
 
