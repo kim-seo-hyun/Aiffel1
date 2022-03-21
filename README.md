@@ -15,7 +15,7 @@
 - 2021.12.27 ~ <br>
 - https://aiffel.oopy.io/
 - ✔ Datathon 2022.03.08 ~ 03.11
-- FD, EX, Programmers LV1, CS231N, Datathon, kaggle study 
+- FD, EX, CS231N, Programmers LV1, Datathon, kaggle study 
 
 <h4> Exploration </h4>
 
