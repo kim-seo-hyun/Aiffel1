@@ -21,7 +21,7 @@
 
 | EX | Category | Project | ⭐⭐⭐
 |---|:---:|:---:|:---:|
-| `01` | [CV] Image Classificaiton | [rock_scissor_paper](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B01%5Drock_scissor_paper.ipynb) | ⭐⭐
+| `01` | [CV] Image Classification | [rock_scissor_paper](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B01%5Drock_scissor_paper.ipynb) | ⭐⭐
 | `02` | Classification | [Digits, Wine, and Breast Cancer Dataset](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B02%5DDigits%2C%20Wine%2C%20and%20Breast%20Cancer%20Dataset.ipynb) | ⭐⭐⭐
 | `03` | [CV] Face Detection | [camera_sticker](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B03%5Dcamera_sticker.ipynb) | ⭐⭐
 | `04` | [NLP] Text Generation | [Make a Lyricsht](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B04%5DMake%20a%20Lyricsht.ipynb) | ⭐⭐
@@ -37,7 +37,7 @@
 | `14` | RecSys | [CSR Matrix](https://github.com/kim-seo-hyun/Aiffel/blob/main/EXPLORATION/%5B14%5DCSR%20Matrix.ipynb) | ⭐⭐⭐
 | `15` | [CV] OCR | [OCR Service](https://github.com/kim-seo-hyun/Aiffel/blob/main1/EXPLORATION/%5B15%5DOCR%20Service.ipynb)| ⭐⭐⭐
 | `16` | RecSys | [Session based Recommendation](https://github.com/kim-seo-hyun/Aiffel1/blob/main1/EXPLORATION/%5B16%5DSession%20Based%20Recommendation.ipynb) | ⭐⭐
-| `17` | [CV]Conditioanl GAN | [pix2pix_cityscapes](https://github.com/kim-seo-hyun/Aiffel1/blob/main1/EXPLORATION/%5B17%5Dpix2pix_cityscapes.ipynb) | 
+| `17` | [CV] Conditional GAN | [pix2pix_cityscapes](https://github.com/kim-seo-hyun/Aiffel1/blob/main1/EXPLORATION/%5B17%5Dpix2pix_cityscapes.ipynb) | 
 
 
 
