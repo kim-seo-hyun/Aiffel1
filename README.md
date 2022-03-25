@@ -40,8 +40,3 @@
 | `17` | [CV] Conditional GAN | [pix2pix_cityscapes](https://github.com/kim-seo-hyun/Aiffel1/blob/main1/EXPLORATION/%5B17%5Dpix2pix_cityscapes.ipynb) | ⭐⭐⭐
 
 
-
-<h4> Fundamental </h4>
-
-| EX | Category | Project
-|---|:---:|:---:|
